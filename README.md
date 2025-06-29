@@ -18,7 +18,7 @@ Este repositorio contiene los archivos principales (`Assets/` y `Packages/`) de 
 ## 🛠️ Requisitos
 
 - Unity Hub instalado: [https://unity.com/download](https://unity.com/download)
-- Versión recomendada de Unity: **[ESPECIFICAR LA VERSIÓN EXACTA, por ejemplo: 2021.3.14f1]**
+- Versión recomendada de Unity: **[6000.0.47f1]**
 - Conexión a Internet para que Unity pueda reconstruir carpetas y descargar dependencias automáticamente
 
 ---
