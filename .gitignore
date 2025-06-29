@@ -1,4 +1,8 @@
+############################################
 # UNITY
+############################################
+
+# Carpetas generadas automáticamente por Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,9 +11,8 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
-Assets/Plugins/Editor/JetBrains*
 
-# VS y solución
+# Archivos de configuración generados por Unity y Visual Studio
 *.csproj
 *.unityproj
 *.sln
@@ -21,22 +24,30 @@ Assets/Plugins/Editor/JetBrains*
 *.booproj
 *.svd
 
-# Cache y binarios
+# Archivos de cache y binarios
 *.pdb
 *.mdb
 *.opendb
 *.apk
 *.aab
 
-# VSC y otros IDE
+# Visual Studio Code
 .vscode/
+
+# Rider / JetBrains
 .idea/
 *.sln.iml
 
-# Otros
+# Unity Collaborate y otros
 .plastic/
 .utmp/
 ignore.conf
+
+# Archivos específicos del proyecto (Vuforia)
+Packages/com.ptc.vuforia.engine-*.tgz
+
+# Sistema operativo
 .DS_Store
 Thumbs.db
 desktop.ini
+
