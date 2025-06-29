@@ -1,0 +1,42 @@
+# UNITY
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/Plugins/Editor/JetBrains*
+
+# VS y solución
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Cache y binarios
+*.pdb
+*.mdb
+*.opendb
+*.apk
+*.aab
+
+# VSC y otros IDE
+.vscode/
+.idea/
+*.sln.iml
+
+# Otros
+.plastic/
+.utmp/
+ignore.conf
+.DS_Store
+Thumbs.db
+desktop.ini
