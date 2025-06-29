@@ -35,6 +35,16 @@ Tienes dos formas:
 2. Extrae el contenido en cualquier carpeta de tu ordenador
 
 #### B. Clonando el repositorio (si tienes Git instalado)
+  git clone https://github.com/tu_usuario/tu_repositorio.git
 
-```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+## 🧪 Prueba la experiencia
+
+Puedes probar el sistema desde un navegador compatible con WebXR (como Chrome en móvil). Abre la cámara y apunta a uno de los cuadros siguientes:
+
+### 📌 Cuadro: Ignàsia Martorell
+![Ignàsia Martorell](./Assets/Images/cuadro_2.jpg)  
+
+### 📌 Cuadro: Tomàs J. Salort
+![Tomàs J. Salort](./Assets/Images/cuadro_3.jpg)  
+
+> 💡 Puedes descargar estas imágenes o mostrarlas en pantalla para simular la prueba.
